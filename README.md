@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# BilioTech Commands
 
-You can use the [editor on GitHub](https://github.com/voltairine1312/bibliotech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page contains the commands you can use. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## General Info
 
-### Markdown
+These commands explain ideology and concepts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Command | Function |
+| -------- | -------- |
+| ```]alienation```   | General Info about Alienation   |
+| ```]anarchism```   | General Info about Anarchism   |
+| ```]ancom```  | General Info about Anarcho-Communism   |
+| ```]anfem```   | General Info about Anarcha-Feminism   |
+| ```]communism```   | General Info about Communism   |
+| ```]diamat```   | General Info about Dialectical materialism   |
+| ```]marxism```  | General Info about Marxism   |
+| ```]situationism```   | General Info about Situationism   |
+| ```]socialism```   | General Info about Socialism   |
 
-```markdown
-Syntax highlighted code block
+## Authors
 
-# Header 1
-## Header 2
-### Header 3
+### Anarchism
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/voltairine1312/bibliotech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Command | Function |
+| -------- | -------- |
+| ```]berkman```   | Alexander Berkman Essential Readings   |
+| ```]bonanno```  | Alfredo M. Bonanno Essential Readings   |
+| ```]bookchin```   | Murray Bookchin Essential Readings   |
+| ```]dejacque```   | Joseph Déjacque Essential Readings   |
+| ```]chomsky```  | Noam Chomsky Essential Readings   |
+| ```]durruti```   | Durruti Essential Readings   |
